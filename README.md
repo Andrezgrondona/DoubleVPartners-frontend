@@ -10,7 +10,6 @@ Este proyecto es una aplicación de tienda de instrumentos musicales construida 
 
 
 
-- Manejo de estado con Redux: La aplicación usa Redux para gestionar el estado global.
 
 
 

@@ -33,9 +33,14 @@ Este proyecto es una aplicación de tienda de instrumentos musicales construida 
    ```bash
    git clone https://github.com/Andrezgrondona/DoubleVPartners-frontend.git
 
+2. Instala dependencias:
+
   - npm install
 
+  3. Corre el proyecto:
+
   - ionic serve
+
 
  
 
